@@ -1,10 +1,10 @@
 # CoreBankingSystem
 
-System Requirements
+Dev Requirements
 1.	Netbeans IDE
 2.	MySQL
 3.	Apache Tomcat 7.0.56
-Deployment Instructions
+Dev Instructions
 1.	Unzip the File Backend_John_Katieno.zip on your Desktop
 2.	Start Netbeans IDE
 3.	From the Main Menu click File>New Project
